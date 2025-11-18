@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kulvanshg63/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kulvanshg63/Leetcode/tree/master/0242-valid-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kulvanshg63/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
@@ -14,5 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kulvanshg63/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kulvanshg63/Leetcode/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kulvanshg63/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

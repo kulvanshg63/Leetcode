@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kulvanshg63/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kulvanshg63/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/kulvanshg63/Leetcode/tree/master/0575-distribute-candies) |
+| [0822-unique-morse-code-words](https://github.com/kulvanshg63/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kulvanshg63/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kulvanshg63/Leetcode/tree/master/0242-valid-anagram) |
+| [0822-unique-morse-code-words](https://github.com/kulvanshg63/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kulvanshg63/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kulvanshg63/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kulvanshg63/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/kulvanshg63/Leetcode/tree/master/0575-distribute-candies) |
+| [0822-unique-morse-code-words](https://github.com/kulvanshg63/Leetcode/tree/master/0822-unique-morse-code-words) |
 ## Two Pointers
 |  |
 | ------- |
